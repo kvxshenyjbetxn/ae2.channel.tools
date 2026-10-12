@@ -1,0 +1,2 @@
+buildscript { project.ext.modVersion = '0.1.0' }
+plugins { id 'com.gtnewhorizons.gtnhconvention' }

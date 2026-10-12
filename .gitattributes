@@ -1,0 +1,6 @@
+* text=auto
+
+# Keep the Gradle launcher runnable after a Linux/macOS checkout.
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
