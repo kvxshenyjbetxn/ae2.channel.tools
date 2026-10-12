@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "ae2channeltools",
+    "name": "AE2 Channel Tools",
+    "description": "Channel loss alerts and free channel labels for the GTNH AE2 Network Visualiser.",
+    "version": "${modVersion}",
+    "mcversion": "${minecraftVersion}",
+    "authorList": [
+      "kvxshenyjbetxn"
+    ],
+    "dependencies": [
+      "appliedenergistics2"
+    ]
+  }
+]

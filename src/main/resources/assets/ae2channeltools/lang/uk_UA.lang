@@ -1,0 +1,17 @@
+chat.ae2channeltools.device=ME-пристрій
+chat.ae2channeltools.lost=§cНемає вільних каналів: %s. X: %s, Y: %s, Z: %s. Вимір: %s.§r
+chat.ae2channeltools.lostPart=§cНемає вільних каналів: %s. Сторона: %s. X: %s, Y: %s, Z: %s. Вимір: %s.§r
+chat.ae2channeltools.more=§cІнші пристрої без каналу: %s.§r
+chat.ae2channeltools.side.DOWN=низ
+chat.ae2channeltools.side.UP=верх
+chat.ae2channeltools.side.NORTH=північ
+chat.ae2channeltools.side.SOUTH=південь
+chat.ae2channeltools.side.WEST=захід
+chat.ae2channeltools.side.EAST=схід
+chat.ae2channeltools.free=Візуалізатор мережі: ВІЛЬНІ канали. Вибери повний режим. /ae2channels перемикає на використані канали.
+chat.ae2channeltools.used=Візуалізатор мережі: ВИКОРИСТАНІ канали. /ae2channels перемикає на вільні канали.
+chat.ae2channeltools.native=Твій AE2 уже показує вільні канали. Вибери його режим вільних каналів.
+chat.ae2channeltools.disabled=Показ вільних каналів вимкнено в конфігурації аддона.
+tooltip.ae2channeltools.free=§aЧисла у повному режимі: вільні канали§r
+tooltip.ae2channeltools.used=§eЧисла у повному режимі: використані канали§r
+tooltip.ae2channeltools.toggle=Перемикання: /ae2channels

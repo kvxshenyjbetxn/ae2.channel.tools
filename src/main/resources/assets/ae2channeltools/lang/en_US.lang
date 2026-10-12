@@ -1,0 +1,17 @@
+chat.ae2channeltools.device=ME device
+chat.ae2channeltools.lost=§cNo free channels: %s. X: %s, Y: %s, Z: %s. Dimension: %s.§r
+chat.ae2channeltools.lostPart=§cNo free channels: %s. Side: %s. X: %s, Y: %s, Z: %s. Dimension: %s.§r
+chat.ae2channeltools.more=§cAdditional devices without a channel: %s.§r
+chat.ae2channeltools.side.DOWN=bottom
+chat.ae2channeltools.side.UP=top
+chat.ae2channeltools.side.NORTH=north
+chat.ae2channeltools.side.SOUTH=south
+chat.ae2channeltools.side.WEST=west
+chat.ae2channeltools.side.EAST=east
+chat.ae2channeltools.free=Network Visualiser: FREE channels. Use Full mode. /ae2channels switches to used channels.
+chat.ae2channeltools.used=Network Visualiser: USED channels. /ae2channels switches to free channels.
+chat.ae2channeltools.native=Your AE2 already has free channel support. Select its Free Channels mode.
+chat.ae2channeltools.disabled=Free channel display is disabled in the addon configuration.
+tooltip.ae2channeltools.free=§aFull mode labels: free channels§r
+tooltip.ae2channeltools.used=§eFull mode labels: used channels§r
+tooltip.ae2channeltools.toggle=Switch labels with /ae2channels
